@@ -2,6 +2,7 @@
 An android App to get and share a random lucky number to your friends.
 
 # Lucky-Number-App apk file
+https://github.com/CGreenP/Lucky-Number-App/releases/download/v1.0.0/LuckyNumberApp.apk
 
 # Output
 ![1](https://github.com/CGreenP/Lucky-Number-App/assets/56307530/ec4d3ee9-33e5-4ac3-8ea9-c87f409ba023)
